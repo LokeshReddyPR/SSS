@@ -1,5 +1,12 @@
 # Team-Search-Sync-Synergy
 
+#### Collaborators
+Akula	Sai Goutham Kumar			    Scrum Master	sakula7@gmu.edu
+Nagabhyru	Bhuvanesh Chowdary	  Product Owner	bnagabhy@gmu.edu
+Pamreddy	Lokesh Reddy	 	      Developer	lpamredd@gmu.edu
+Raveendran	Rachana			        Developer	rraveen@gmu.edu
+Vemulapally	Sai Rakshith			  Developer	svemula7@gmu.edu
+
 ### Topic: Synchronizing data catalogs with content search technologies
 
 Synchronizing data catalogs with content search technologies involves integrating and aligning two distinct components: data catalogs and content search capabilities. Let's break down each component and then explore how they can be synchronized.
