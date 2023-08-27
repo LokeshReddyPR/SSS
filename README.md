@@ -1,11 +1,11 @@
 # Team-Search-Sync-Synergy
 
 #### Collaborators
-Akula	Sai Goutham Kumar			&ensp;    Scrum Master	  &ensp;   sakula7@gmu.edu </br>
-Nagabhyru	Bhuvanesh Chowdary	&ensp;  Product Owner	 &ensp;    bnagabhy@gmu.edu </br>
-Pamreddy	Lokesh Reddy	 &ensp;	      Developer	    &ensp;     lpamredd@gmu.edu </br>
-Raveendran	Rachana			&ensp;        Developer	     &ensp;    rraveen@gmu.edu </br>
-Vemulapally	Sai Rakshith	&ensp;		  Developer	   &ensp;      svemula7@gmu.edu </br>
+Akula	Sai Goutham Kumar	&ensp; sakula7@gmu.edu    (Scrum Master)  &ensp;    </br>
+Nagabhyru	Bhuvanesh Chowdary		 &ensp;    bnagabhy@gmu.edu  &ensp;  (Product Owner)</br>
+Pamreddy	Lokesh Reddy	     &ensp;     lpamredd@gmu.edu &ensp;	      (Developer)	</br>
+Raveendran	Rachana				     &ensp;    rraveen@gmu.edu &ensp;        (Developer) </br>
+Vemulapally	Sai Rakshith	   &ensp;      svemula7@gmu.edu &ensp;		  (Developer) </br>
 
 ### Topic: Synchronizing data catalogs with content search technologies
 
